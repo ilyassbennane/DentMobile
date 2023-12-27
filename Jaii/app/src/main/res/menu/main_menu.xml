@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Existing menu items -->
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/baseline_work_24"
+        android:title="Pw" />
+    <item
+        android:id="@+id/nav_edit_profile"
+        android:icon="@drawable/baseline_settings_suggest_24"
+        android:title="Edit Profile" />
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/baseline_exit_to_app_24"
+        android:title="Logout"
+        android:paddingTop="40dp"
+        android:paddingBottom="8dp" />
+
+</menu>
